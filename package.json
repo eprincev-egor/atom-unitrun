@@ -8,7 +8,7 @@
   "activationEvents": [
 	"build:run"
   ],
-  "repository": "https://github.com/atom/unitrun",
+  "repository": "https://github.com/eprincev-egor/atom-unitrun",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
